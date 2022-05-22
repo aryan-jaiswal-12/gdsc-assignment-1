@@ -1,0 +1,23 @@
+.box {
+    width: 400px;
+
+    margin: 150px auto;
+}
+
+.profile-picture {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+
+.profile {
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 900;
+}
+a:hover{
+    color: darkgray;
+}
